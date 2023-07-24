@@ -1,1 +1,7 @@
-{"name":"placestartendside","sources":["http://template.vtubers.place/api/Image/533"],"x":2793,"y":167}
+{
+    "faction": "Vtubers Place",
+    "contact": "https://discord.gg/vtubersplace",
+    "templates": [
+        {"name":"placestartendside","sources":["http://template.vtubers.place/api/Image/533"],"x":2793,"y":167}
+    ]
+}
