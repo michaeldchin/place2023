@@ -1,0 +1,14 @@
+{
+    "faction": "Place",
+    "contact": "",
+    "templates": [
+        {
+            "name": "test",
+            "sources": [
+                "https://cdn.discordapp.com/attachments/183427673790349312/1133075244601581589/33.png"
+            ],
+            "x": 5,
+            "y": 5
+        }
+    ]
+}
