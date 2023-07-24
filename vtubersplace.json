@@ -323,20 +323,6 @@
             "frameCount": null,
             "startTime": null,
             "looping": null
-        },
-        {
-            "name": "mumeisuisei",
-            "sources": [
-                "https://cdn.discordapp.com/attachments/1132864268371492874/1132865448111779950/mumeisuiseipixel50x30.png"
-            ],
-            "x": 68,
-            "y": 882,
-            "frameWidth": null,
-            "frameHeight": null,
-            "frameRate": null,
-            "frameCount": null,
-            "startTime": null,
-            "looping": null
         }
     ],
     "whitelist": [
