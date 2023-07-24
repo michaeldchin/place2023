@@ -3,20 +3,12 @@
     "contact": "",
     "templates": [
         {
-            "name": "green3x3",
-            "sources": [
-                "https://cdn.discordapp.com/attachments/183427673790349312/1133075244601581589/33.png"
-            ],
-            "x": 5,
-            "y": 5
-        },
-        {
-            "name": "blackrecr",
-            "sources": [
-                "https://cdn.discordapp.com/attachments/183427673790349312/1133076727174799471/image.png"
-            ],
-            "x": 5,
-            "y": 5
+          "name": "neurosama",
+          "sources": [
+            "http://template.vtubers.place/api/Image/525"
+          ],
+          "x": 2728,
+          "y": 137
         }
     ]
 }
