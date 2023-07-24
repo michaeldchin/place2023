@@ -3,9 +3,17 @@
     "contact": "",
     "templates": [
         {
-            "name": "test",
+            "name": "green3x3",
             "sources": [
                 "https://cdn.discordapp.com/attachments/183427673790349312/1133075244601581589/33.png"
+            ],
+            "x": 5,
+            "y": 5
+        },
+        {
+            "name": "blackrecr",
+            "sources": [
+                "https://cdn.discordapp.com/attachments/183427673790349312/1133076727174799471/image.png"
             ],
             "x": 5,
             "y": 5
