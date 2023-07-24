@@ -193,6 +193,14 @@
             ],
             "x": 1341,
             "y": 225
+        },
+        {
+            "name": "EN3 logo",
+            "sources": [
+                "https://cdn.discordapp.com/attachments/1132897275228721182/1132897729450868847/EN3smol.png"
+            ],
+            "x": 1342,
+            "y": 174
         }
     ],
     "whitelist": [
