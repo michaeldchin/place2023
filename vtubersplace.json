@@ -311,11 +311,11 @@
             "looping": null
         },
         {
-            "name": "sanaliteTeam-Snakebite-Mascot-Art",
+            "name": "Team-Snakebite-Mascot-Art",
             "sources": [
                 "http://template.vtubers.place/api/Image/240"
             ],
-            "x": 1343,
+            "x": 1341,
             "y": 225,
             "frameWidth": null,
             "frameHeight": null,
