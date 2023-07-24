@@ -269,6 +269,20 @@
             "looping": null
         },
         {
+            "name": "Isekai-Joucho",
+            "sources": [
+                "http://template.vtubers.place/api/Image/235"
+            ],
+            "x": 1341,
+            "y": 194,
+            "frameWidth": null,
+            "frameHeight": null,
+            "frameRate": null,
+            "frameCount": null,
+            "startTime": null,
+            "looping": null
+        },
+        {
             "name": "yagoo",
             "sources": [
                 "https://cdn.discordapp.com/attachments/1132741469162188890/1132859365150429214/chadyagoo2.png"
