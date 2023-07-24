@@ -269,23 +269,9 @@
             "looping": null
         },
         {
-            "name": "Isekai-Joucho",
-            "sources": [
-                "http://template.vtubers.place/api/Image/235"
-            ],
-            "x": 1237,
-            "y": 225,
-            "frameWidth": null,
-            "frameHeight": null,
-            "frameRate": null,
-            "frameCount": null,
-            "startTime": null,
-            "looping": null
-        },
-        {
             "name": "yagoo",
             "sources": [
-                "http://template.vtubers.place/api/Image/236"
+                "https://cdn.discordapp.com/attachments/1132741469162188890/1132859365150429214/chadyagoo2.png"
             ],
             "x": 1168,
             "y": 184,
@@ -331,6 +317,20 @@
             ],
             "x": 1283,
             "y": 225,
+            "frameWidth": null,
+            "frameHeight": null,
+            "frameRate": null,
+            "frameCount": null,
+            "startTime": null,
+            "looping": null
+        },
+        {
+            "name": "mumeisuisei",
+            "sources": [
+                "https://cdn.discordapp.com/attachments/1132864268371492874/1132865448111779950/mumeisuiseipixel50x30.png"
+            ],
+            "x": 68,
+            "y": 882,
             "frameWidth": null,
             "frameHeight": null,
             "frameRate": null,
