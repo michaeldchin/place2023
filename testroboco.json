@@ -2,13 +2,6 @@
     "faction": "Place",
     "contact": "",
     "templates": [
-        {
-          "name": "green",
-          "sources": [
-            "https://cdn.discordapp.com/attachments/183427673790349312/1133100153121816606/image.png"
-          ],
-          "x": 2757,
-          "y": 148
-        }
+        {"name":"selen-head","sources":["http://template.vtubers.place/api/Image/531"],"x":2781,"y":137}
     ]
 }
