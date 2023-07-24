@@ -3,12 +3,12 @@
     "contact": "",
     "templates": [
         {
-          "name": "neurosama",
+          "name": "green",
           "sources": [
-            "http://template.vtubers.place/api/Image/525"
+            "https://cdn.discordapp.com/attachments/183427673790349312/1133075244601581589/33.png"
           ],
-          "x": 2728,
-          "y": 137
+          "x": 5,
+          "y": 5
         }
     ]
 }
