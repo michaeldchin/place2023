@@ -337,6 +337,20 @@
             "frameCount": null,
             "startTime": null,
             "looping": null
+        },
+        {
+            "name": "mumeisuisei",
+            "sources": [
+                "https://cdn.discordapp.com/attachments/1132741469162188890/1132859365150429214/chadyagoo2.png"
+            ],
+            "x": 68,
+            "y": 882,
+            "frameWidth": null,
+            "frameHeight": null,
+            "frameRate": null,
+            "frameCount": null,
+            "startTime": null,
+            "looping": null
         }
     ],
     "whitelist": [
