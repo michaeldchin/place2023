@@ -8,13 +8,7 @@
                 "http://template.vtubers.place/api/Image/73"
             ],
             "x": 852,
-            "y": 679,
-            "frameWidth": null,
-            "frameHeight": null,
-            "frameRate": null,
-            "frameCount": null,
-            "startTime": null,
-            "looping": null
+            "y": 679
         },
         {
             "name": "pat",
@@ -22,13 +16,7 @@
                 "http://template.vtubers.place/api/Image/80"
             ],
             "x": 1166,
-            "y": 89,
-            "frameWidth": null,
-            "frameHeight": null,
-            "frameRate": null,
-            "frameCount": null,
-            "startTime": null,
-            "looping": null
+            "y": 89
         },
         {
             "name": "shu-banana",
@@ -36,13 +24,7 @@
                 "http://template.vtubers.place/api/Image/106"
             ],
             "x": 878,
-            "y": 730,
-            "frameWidth": null,
-            "frameHeight": null,
-            "frameRate": null,
-            "frameCount": null,
-            "startTime": null,
-            "looping": null
+            "y": 730
         },
         {
             "name": "luca",
@@ -50,13 +32,7 @@
                 "http://template.vtubers.place/api/Image/112"
             ],
             "x": 831,
-            "y": 700,
-            "frameWidth": null,
-            "frameHeight": null,
-            "frameRate": null,
-            "frameCount": null,
-            "startTime": null,
-            "looping": null
+            "y": 700
         },
         {
             "name": "redcontroller-vtpl",
@@ -64,13 +40,7 @@
                 "http://template.vtubers.place/api/Image/162"
             ],
             "x": 1222,
-            "y": 155,
-            "frameWidth": null,
-            "frameHeight": null,
-            "frameRate": null,
-            "frameCount": null,
-            "startTime": null,
-            "looping": null
+            "y": 155
         },
         {
             "name": "sabaton",
@@ -78,13 +48,7 @@
                 "http://template.vtubers.place/api/Image/167"
             ],
             "x": 882,
-            "y": 632,
-            "frameWidth": null,
-            "frameHeight": null,
-            "frameRate": null,
-            "frameCount": null,
-            "startTime": null,
-            "looping": null
+            "y": 632
         },
         {
             "name": "vtpl",
@@ -92,13 +56,7 @@
                 "http://template.vtubers.place/api/Image/210"
             ],
             "x": 1213,
-            "y": 88,
-            "frameWidth": null,
-            "frameHeight": null,
-            "frameRate": null,
-            "frameCount": null,
-            "startTime": null,
-            "looping": null
+            "y": 88
         },
         {
             "name": "Skrunkly",
@@ -106,13 +64,7 @@
                 "http://template.vtubers.place/api/Image/211"
             ],
             "x": 1158,
-            "y": 109,
-            "frameWidth": null,
-            "frameHeight": null,
-            "frameRate": null,
-            "frameCount": null,
-            "startTime": null,
-            "looping": null
+            "y": 109
         },
         {
             "name": "vtpl-main",
@@ -120,13 +72,7 @@
                 "http://template.vtubers.place/api/Image/212"
             ],
             "x": 816,
-            "y": 632,
-            "frameWidth": null,
-            "frameHeight": null,
-            "frameRate": null,
-            "frameCount": null,
-            "startTime": null,
-            "looping": null
+            "y": 632
         },
         {
             "name": "machiroon_with_background",
@@ -134,13 +80,7 @@
                 "http://template.vtubers.place/api/Image/213"
             ],
             "x": 853,
-            "y": 647,
-            "frameWidth": null,
-            "frameHeight": null,
-            "frameRate": null,
-            "frameCount": null,
-            "startTime": null,
-            "looping": null
+            "y": 647
         },
         {
             "name": "gigastructure",
@@ -148,13 +88,7 @@
                 "http://template.vtubers.place/api/Image/216"
             ],
             "x": 1167,
-            "y": 136,
-            "frameWidth": null,
-            "frameHeight": null,
-            "frameRate": null,
-            "frameCount": null,
-            "startTime": null,
-            "looping": null
+            "y": 136
         },
         {
             "name": "idol-corp",
@@ -162,13 +96,7 @@
                 "http://template.vtubers.place/api/Image/217"
             ],
             "x": 1159,
-            "y": 89,
-            "frameWidth": null,
-            "frameHeight": null,
-            "frameRate": null,
-            "frameCount": null,
-            "startTime": null,
-            "looping": null
+            "y": 89
         },
         {
             "name": "hotline-miami",
@@ -176,13 +104,7 @@
                 "http://template.vtubers.place/api/Image/218"
             ],
             "x": 1199,
-            "y": 145,
-            "frameWidth": null,
-            "frameHeight": null,
-            "frameRate": null,
-            "frameCount": null,
-            "startTime": null,
-            "looping": null
+            "y": 145
         },
         {
             "name": "keg",
@@ -190,13 +112,7 @@
                 "http://template.vtubers.place/api/Image/221"
             ],
             "x": 1315,
-            "y": 40,
-            "frameWidth": null,
-            "frameHeight": null,
-            "frameRate": null,
-            "frameCount": null,
-            "startTime": null,
-            "looping": null
+            "y": 40
         },
         {
             "name": "kobo-stream",
@@ -204,13 +120,7 @@
                 "http://template.vtubers.place/api/Image/224"
             ],
             "x": 1316,
-            "y": 125,
-            "frameWidth": null,
-            "frameHeight": null,
-            "frameRate": null,
-            "frameCount": null,
-            "startTime": null,
-            "looping": null
+            "y": 125
         },
         {
             "name": "kiara-dirndl",
@@ -218,13 +128,7 @@
                 "http://template.vtubers.place/api/Image/225"
             ],
             "x": 1275,
-            "y": 88,
-            "frameWidth": null,
-            "frameHeight": null,
-            "frameRate": null,
-            "frameCount": null,
-            "startTime": null,
-            "looping": null
+            "y": 88
         },
         {
             "name": "suiaxe",
@@ -232,13 +136,7 @@
                 "http://template.vtubers.place/api/Image/226"
             ],
             "x": 1192,
-            "y": 120,
-            "frameWidth": null,
-            "frameHeight": null,
-            "frameRate": null,
-            "frameCount": null,
-            "startTime": null,
-            "looping": null
+            "y": 120
         },
         {
             "name": "Wheatzies-alliance",
@@ -246,13 +144,7 @@
                 "http://template.vtubers.place/api/Image/228"
             ],
             "x": 942,
-            "y": 708,
-            "frameWidth": null,
-            "frameHeight": null,
-            "frameRate": null,
-            "frameCount": null,
-            "startTime": null,
-            "looping": null
+            "y": 708
         },
         {
             "name": "ekumboku",
@@ -260,13 +152,7 @@
                 "http://template.vtubers.place/api/Image/234"
             ],
             "x": 1238,
-            "y": 177,
-            "frameWidth": null,
-            "frameHeight": null,
-            "frameRate": null,
-            "frameCount": null,
-            "startTime": null,
-            "looping": null
+            "y": 177
         },
         {
             "name": "Isekai-Joucho",
@@ -274,13 +160,7 @@
                 "http://template.vtubers.place/api/Image/235"
             ],
             "x": 1341,
-            "y": 194,
-            "frameWidth": null,
-            "frameHeight": null,
-            "frameRate": null,
-            "frameCount": null,
-            "startTime": null,
-            "looping": null
+            "y": 194
         },
         {
             "name": "yagoo",
@@ -288,13 +168,7 @@
                 "https://cdn.discordapp.com/attachments/1132741469162188890/1132859365150429214/chadyagoo2.png"
             ],
             "x": 1168,
-            "y": 184,
-            "frameWidth": null,
-            "frameHeight": null,
-            "frameRate": null,
-            "frameCount": null,
-            "startTime": null,
-            "looping": null
+            "y": 184
         },
         {
             "name": "ui-mama",
@@ -302,13 +176,7 @@
                 "http://template.vtubers.place/api/Image/238"
             ],
             "x": 1309,
-            "y": 177,
-            "frameWidth": null,
-            "frameHeight": null,
-            "frameRate": null,
-            "frameCount": null,
-            "startTime": null,
-            "looping": null
+            "y": 177
         },
         {
             "name": "sanalite",
@@ -316,13 +184,7 @@
                 "http://template.vtubers.place/api/Image/239"
             ],
             "x": 1256,
-            "y": 163,
-            "frameWidth": null,
-            "frameHeight": null,
-            "frameRate": null,
-            "frameCount": null,
-            "startTime": null,
-            "looping": null
+            "y": 163
         },
         {
             "name": "Team-Snakebite-Mascot-Art",
@@ -330,13 +192,7 @@
                 "http://template.vtubers.place/api/Image/240"
             ],
             "x": 1341,
-            "y": 225,
-            "frameWidth": null,
-            "frameHeight": null,
-            "frameRate": null,
-            "frameCount": null,
-            "startTime": null,
-            "looping": null
+            "y": 225
         }
     ],
     "whitelist": [
