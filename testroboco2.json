@@ -3,11 +3,11 @@
   "contact": "https://discord.gg/vtubersplace",
   "templates": [
     {
-      "name": "mysta-large",
+      "name": "test",
       "sources": [
-        "http://template.vtubers.place/api/Image/539"
+        "http://template.vtubers.place/api/Image/236"
       ],
-      "x": 2614,
+      "x": 1381,
       "y": 137
     }
   ]
