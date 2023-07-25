@@ -1,0 +1,14 @@
+{
+  "faction": "Vtubers Place",
+  "contact": "https://discord.gg/vtubersplace",
+  "templates": [
+    {
+      "name": "test",
+      "sources": [
+        "http://template.vtubers.place/api/Image/529"
+      ],
+      "x": 2801,
+      "y": 137
+    }
+  ]
+}
