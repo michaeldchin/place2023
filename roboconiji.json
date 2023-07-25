@@ -1,1 +1,14 @@
-
+{
+  "faction": "Vtubers Place",
+  "contact": "https://discord.gg/vtubersplace",
+  "templates": [
+    {
+      "name": "test",
+      "sources": [
+        "https://cdn.discordapp.com/attachments/183427673790349312/1133264001690771536/212niji.png"
+      ],
+      "x": 816,
+      "y": 632
+    }
+  ]
+}
