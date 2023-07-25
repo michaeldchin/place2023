@@ -1,7 +1,14 @@
 {
-    "faction": "Vtubers Place",
-    "contact": "https://discord.gg/vtubersplace",
-    "templates": [
-        {"name":"mysta-large","sources":["https://cdn.discordapp.com/attachments/183427673790349312/1133175874510929970/mysta-face.png"],"x":2662,"y":137}
-    ]
+  "faction": "Vtubers Place",
+  "contact": "https://discord.gg/vtubersplace",
+  "templates": [
+    {
+      "name": "placestartendside",
+      "sources": [
+        "http://template.vtubers.place/api/Image/533"
+      ],
+      "x": 2793,
+      "y": 167
+    }
+  ]
 }
